@@ -7,7 +7,9 @@
 ```
 #1. prodigal ORF calling
 prodigal -p meta -q -i wh.assembly.fasta -a wh.assembly_prodigal.faa -d wh.assembly_prodigal.fna
+# 3714 ORF from prodigal
 
+#2, upload both fna and faa to eggnog mapper for annotation
 
 ```
 
