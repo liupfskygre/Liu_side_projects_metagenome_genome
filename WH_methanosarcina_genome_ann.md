@@ -6,7 +6,7 @@
 
 ```
 #1. prodigal ORF calling
-
+prodigal -p meta -q -i wh.assembly.fasta -a wh.assembly_prodigal.faa -d wh.assembly_prodigal.fna
 
 
 ```
