@@ -25,6 +25,12 @@ barrnap -o wh.assembly_rrna.fa <wh.assembly.fasta> wh.assembly_rrna.gff
 
 ```
 
+**dfast annotation**
+```
+https://dfast.nig.ac.jp/analysis/annotation/dffecb4f-21a7-4184-94f5-5bfa43ed2268
+
+```
+
 
 **default annotation from company**
 ```
